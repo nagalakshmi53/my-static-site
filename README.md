@@ -4,7 +4,7 @@ This is a simple static website hosted using **GitHub Pages** as part of my DevO
 
 ## 🌐 Live Website
 
-[Click here to view](https://your-username.github.io/my-static-site/)
+[Click here to view](https://nagalakshmi53.github.io/my-static-site/ )
 
 ## 📁 Files Included
 
